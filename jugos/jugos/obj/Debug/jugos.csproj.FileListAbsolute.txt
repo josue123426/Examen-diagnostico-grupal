@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\JOSUE\unive\jugos\jugos\bin\Debug\jugos.exe.config
+C:\Users\User\Desktop\JOSUE\unive\jugos\jugos\bin\Debug\jugos.exe
+C:\Users\User\Desktop\JOSUE\unive\jugos\jugos\bin\Debug\jugos.pdb
+C:\Users\User\Desktop\JOSUE\unive\jugos\jugos\obj\Debug\jugos.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\JOSUE\unive\jugos\jugos\obj\Debug\jugos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\JOSUE\unive\jugos\jugos\obj\Debug\jugos.exe
+C:\Users\User\Desktop\JOSUE\unive\jugos\jugos\obj\Debug\jugos.pdb

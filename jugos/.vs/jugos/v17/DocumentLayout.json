@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\JOSUE\\unive\\jugos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5602F876-A1E2-41F8-9A17-9260A599AA28}|jugos\\jugos.csproj|c:\\users\\user\\desktop\\josue\\unive\\jugos\\jugos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5602F876-A1E2-41F8-9A17-9260A599AA28}|jugos\\jugos.csproj|solutionrelative:jugos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\JOSUE\\unive\\jugos\\jugos\\Program.cs",
+              "RelativeDocumentMoniker": "jugos\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\JOSUE\\unive\\jugos\\jugos\\Program.cs",
+              "RelativeToolTip": "jugos\\Program.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwGwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:46:07.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
